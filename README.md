@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FastAPI Learning 🚀
 
 A collection of projects and experiments built while learning **FastAPI**, Python backend development, and RESTful APIs.
